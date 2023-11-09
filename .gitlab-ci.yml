@@ -1,0 +1,42 @@
+# This file is a template, and might need editing before it works on your project.
+# To contribute improvements to CI/CD templates, please follow the Development guide at:
+# https://docs.gitlab.com/ee/development/cicd/templates.html
+# This specific template is located at:
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Pages/Hugo.gitlab-ci.yml
+#
+
+---
+# All available Hugo versions are listed here:
+# https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.120.3
+# registry.gitlab.com/pages/hugo/hugo_extended:0.120.3
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+.build: &build
+  script:
+    - echo $DEPLOY_PREFIX
+    - hugo -b $DEPLOY_PREFIX/
+  artifacts:
+    paths:
+      - public
+
+test:  # builds and tests your site
+  <<: *build
+  variables:
+    DEPLOY_PREFIX: https://$CI_PROJECT_NAMESPACE.$CI_PAGES_DOMAIN/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public
+    HUGO_UGLYURLS: "true"
+  environment:
+    name: review/$CI_COMMIT_REF_NAME
+    url: https://$CI_PROJECT_NAMESPACE.$CI_PAGES_DOMAIN/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+pages:  # a predefined job that builds your pages and saves them to the specified path.
+  <<: *build
+  variables:
+    DEPLOY_PREFIX: https://nextgems.pages.gwdg.de/hazard-hackathon/
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  environment: production
