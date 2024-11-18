@@ -21,7 +21,7 @@ body {
   position: relative;
   display: table;
   width: 100%;
-  height: 80%;
+  height: 100%;
   // max-height: fit-content;
   margin-bottom: 0rem;
   text-align: center;
@@ -61,8 +61,8 @@ body {
     margin: 0;
     font-size: 2.5rem;
     line-height: 1.5em;
-    font-weight: 400;
-    font-family: "Roboto Slab", serif;
+    font-weight: 600;
+    font-family: "Open Sans", normal;
     letter-spacing: 0;
     text-shadow: var(--cover-title-text-shadow);
   }
