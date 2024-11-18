@@ -22,7 +22,7 @@
     /* Light section - text color */
     --section-light-text-color: #3a4145;
     /* Light section - background color */
-    --section-light-bg-color: #F6F1EC;
+    --section-light-bg-color: #FFFFFF;
 
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
@@ -44,5 +44,5 @@
 
     /* === Lists === */
     /* define list element for unnumbered lists, leave empty for default list element */
-    --ul-li-icon: fa-asterisk;
+    --ul-li-icon: fa-minus;
 }
