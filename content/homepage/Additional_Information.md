@@ -2,7 +2,7 @@
 title: "Additional Information"
 weight: 7
 header_menu_title: "Additional Information"
-header_menu: true
+header_menu: false
 ---
 <br>
 

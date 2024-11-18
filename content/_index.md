@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/SnL_logo_design.png"
+header_image: "images/Hackathon-Image-V2-05.png"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/code_icon.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Hazard hackathon"
-header_subheadline: "14th to 18th October 2024 in Wageningen"
+header_headline: "Hamburg Node"
+header_subheadline: "Hamburg Node"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

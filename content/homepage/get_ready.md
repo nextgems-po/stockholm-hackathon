@@ -1,7 +1,7 @@
 ---
 title: "Get ready"
 weight: 2
-header_menu: true
+header_menu: false
 ---
 
 Here are some hints to help you prepare for your hackathon week.

@@ -1,7 +1,7 @@
 ---
 title: "Forum Building - Floor Plan"
 header_menu_title: "Floor Plan"
-header_menu: true
+header_menu: false
 detailed_page_path: Forum_Floor_Plan/
 detailed_page_homepage_content: true
 
