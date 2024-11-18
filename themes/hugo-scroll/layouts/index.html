@@ -5,11 +5,11 @@
 {{ $content := where (where $sections "Params.external" "==" nil) "Params.detailed_page_homepage_content" "ne" false }}
 
 <!-- Welcome screen that scrolls out of view -->
-{{ if not .Params.header_use_video }}
+{{/*  {{ if not .Params.header_use_video }}
 <header id="site-head" class="withCenteredImage" {{ with .Params.header_image }}style="background-image: url({{ . }})"{{ end }}>
-{{ else }}
+{{ else }}  */}}
 <header id="site-head">
-{{ end }}
+{{/*  {{ end }}  */}}
 
     <div class="vertical">
 
@@ -19,15 +19,19 @@
             your local /layouts/partials-directory -->
             {{- partial "custom_header_video.html" . -}}
         {{ end }}
+        <div id="site-head-content" class="inner">
+        
+        <img src="images/Hackathon-Image-V2-05.png" width=80% height=auto>
+        </div>
 
         <div id="site-head-content" class="inner">
             {{ $page := . }}
             {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" />{{ end }}
 
             {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
-              {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}
+              {{/*  {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}  */}}
               {{ with .Params.header_subheadline }}<h2 class="blog-description">{{ . | safeHTML }}</h2>{{ end }}
-            {{ if .Site.Params.title_guard }}</div>{{ end }}
+            {{ if .Site.Params.title_guard }}</div>{{ end }} 
 
             {{ range where $sections ".Params.header_menu" "eq" true }}
               {{ $button_title := .Title }}
@@ -42,11 +46,24 @@
                  <a class='btn site-menu' data-title-anchor='{{ anchorize $fnav_title }}' href='#{{ anchorize $fnav_title }}'>{{ $button_title }}</a>
               {{ end }}
             {{ end }}
-            {{ with (index $content 0) }}
+            {{/*  {{ with (index $content 0) }}
                 {{ $first_title := .Title }}{{ with .Params.navigation_menu_title }}{{ $first_title = . }}{{ end }}
                 <a id='header-arrow' href="#{{- anchorize $first_title -}}" aria-label="Go to first section"><i class="fa fa-angle-down"></i></a>
-            {{ end }}
+            {{ end }}  */}}
         </div>
+        <div>
+            {{/*  {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}
+            {{ with .Params.header_subheadline }}<h2 class="blog-description">{{ . | safeHTML }}</h2>{{ end }}  */}}
+        </div>
+    </div>
+
+    <div>
+        {{/*  {{ $page := . }}
+        {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" />{{ end }}  */}} 
+
+        {{/*  {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}
+        {{ with .Params.header_subheadline }}<h2 class="blog-description">{{ . | safeHTML }}</h2>{{ end }}  */}}
+        
     </div>
 </header>
 

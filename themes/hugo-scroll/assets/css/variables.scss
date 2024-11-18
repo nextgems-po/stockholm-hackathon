@@ -1,7 +1,7 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #007DFF;
+    --cover-text-color: #627797;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
     --highlight: #8ACBFF;
     --highlight-contrast: var(--cover-text-color);
@@ -27,7 +27,7 @@
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #004C89;
+    --section-dark-bg-color: #627797;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
@@ -39,7 +39,7 @@
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: #004C89;
+    --footer-color-background: #627797;
     --footer-color: #bbc7cc;
 
     /* === Lists === */

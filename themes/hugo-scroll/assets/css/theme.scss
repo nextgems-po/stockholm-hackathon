@@ -21,7 +21,8 @@ body {
   position: relative;
   display: table;
   width: 100%;
-  height: 100%;
+  height: 80%;
+  // max-height: fit-content;
   margin-bottom: 0rem;
   text-align: center;
   color: var(--cover-text-color);
@@ -50,7 +51,7 @@ body {
   }
 
   .blog-title {
-    margin: 10px 0 10px 0;
+    margin: 60% 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow);
@@ -69,14 +70,14 @@ body {
   // Landing screen menu
   a.btn {
     text-decoration: none;
-    background-color: var(--highlight);
+    // background-color: var(--highlight);
     color: var(--highlight-contrast);
     border-radius: 6px;
-    -webkit-border-radius: 6px;
+    -webkit-border-radius: 0px;
     display: inline-block;
     font-size: 16px;
     letter-spacing: 1px;
-    margin: 0;
+    margin: 100;
     overflow: visible;
     padding: 10px 20px 10px 20px;
     position: relative;
@@ -94,7 +95,7 @@ body {
 
   /** The arrow button to scroll to content */
   #header-arrow {
-    font-size: 140px;
+    font-size: 100px;
     margin: -10px auto;
     text-align: center;
     position: absolute;
