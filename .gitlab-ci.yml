@@ -36,7 +36,7 @@ test:  # builds and tests your site
 pages:  # a predefined job that builds your pages and saves them to the specified path.
   <<: *build
   variables:
-    DEPLOY_PREFIX: https://nextgems.pages.gwdg.de/hazard-hackathon/
+    DEPLOY_PREFIX: https://nextgems.pages.gwdg.de/global-hackathon-hamburg/
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   environment: production
