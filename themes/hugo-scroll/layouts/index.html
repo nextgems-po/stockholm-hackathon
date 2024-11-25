@@ -21,7 +21,7 @@
         {{ end }}
         <div id="site-head-content" class="inner">
         
-        <img src="images/Hackathon-Image-V2-05.png" width=80% height=auto>
+        {{ with .Params.header_image }}<img src="{{ . }}"  width=80% height=auto />{{ end }}
         </div>
 
         <div id="site-head-content" class="inner">
