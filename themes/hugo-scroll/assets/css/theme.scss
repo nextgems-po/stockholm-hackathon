@@ -51,7 +51,7 @@ body {
   }
 
   .blog-title {
-    margin: 60% 0 10px 0;
+    margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow);
@@ -70,7 +70,7 @@ body {
   // Landing screen menu
   a.btn {
     text-decoration: none;
-    // background-color: var(--highlight);
+    background-color: var(--highlight);
     color: var(--highlight-contrast);
     border-radius: 6px;
     -webkit-border-radius: 0px;
