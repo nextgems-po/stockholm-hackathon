@@ -3,21 +3,23 @@ title: "nextGEMS offers travel support for up to 15 hackathon participants"
 header_menu: false
 ---
 
-*Where and when:* Hamburg, location tbd, 12 – 16 May 2025
+*Where and when:* Stockholm, Swedish Museum of Natural History, 25 – 28 March 2025
 
 **details below need to be updated!!!**
 
-nextGEMS offers up to 15 stipends for participation in the 4th km-scale hackathon to support young scientists (at Master and PhD student level) from outside the project.
+nextGEMS offers up to 15 stipends for participation in the 6th hackathon to support young scientists (at Master and PhD student level) from outside the project.
 
-Application deadline: 15 June 2024.
-[-> quicklink to registration & application](https://events.mpimet.mpg.de/e/hazard-hackathon)
+Application deadline: 31 January 2025.
+[-> quicklink to registration & application]())
 
 ## What is a nextGEMS hackathon?
+
+*[check if these sections still apply; add information about renewable energies, ...]*
 
 nextGEMS is an European project that follows a new approach to climate modelling with global storm-resolving Earth-system Models. The project members meet regularly at hackathons to collaboratively analyse the latest model runs, exchange ideas and develop new ways forward.
 
 We would like to include universities and research groups, especially from regions with less of a tradition in climate science. External participants applying for a stipend will (mostly) be organized in teams to work on an Application Challenge Problem associated with the main hackathon themes: fire weather, (urban) heat extremes, and precipitation extremes.
-<!-- , this time related to fisheries. nextGEMS scientists, as well as experts from the fisheries field, will supervise and support those teams. -->
+
 
 If you haven’t been to a hackathon, have a look at our [previous hackathons](https://nextgems-h2020.eu/hackathon/) to get an impression of the atmosphere during our previous meetings.
 
@@ -34,7 +36,7 @@ We welcome young scientists with a strong interest in climate science or Earth s
 
 ## What is included?
 
-The hackathon participation is free and includes coffee breaks, lunches and a dinner. Additional support for travel and accommodation costs (incl. breakfast) up to €1000 are available per person.
+The hackathon participation is free and includes *[coffee breaks, lunches and a dinner, **update!**]*. Additional support for travel and accommodation costs (incl. breakfast) up to €1000 are available per person.
 
 
 ## How to apply?
@@ -46,11 +48,11 @@ Before applying for hackathon travel support, please prepare the following docum
 - Proof of current enrolment and latest BSc / MSc certificates
 - Letter of support from a supervisor or equivalent, stating the relevance of the applicant’s participation
 
-Information on the hackathon, as well as registration details, can be found on the [event website](https://events.mpimet.mpg.de/e/hazard-hackathon).
+Registration details, can be found on the [registration website]().
 
-During the registration, please indicate that you apply for a hackathon stipend. Following the respective check-box, please upload the documents listed above in *one single (concatenated) PDF file*.
+During the registration, please indicate that you apply for hackathon travel support. Following the respective check-box, please upload the documents listed above in *one single (concatenated) PDF file*.
 
-Application deadline is 15 June 2024.
+Application deadline is 31 January 2025.
 We will let you know as soon as possible whether we can arrange for your hackathon participation in Wageningen.
 
 ## Questions?

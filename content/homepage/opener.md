@@ -2,9 +2,12 @@
 title: "Welcome"
 weight: 1
 ---
+**Welcome to the 6th and Final Hackathon of the nextGEMS Project**  
 
-The **Hamburg Node of the Digital Earths Global Hackathon** is part of the **World Climate Research Programme (WCRP) Global km-Scale Hackathon**, an initiative designed to advance the analysis and development of high-resolution Earth-system models. 
+This is the official website for the concluding hackathon of the nextGEMS project, taking place in **Stockholm, Sweden**, from **Tuesday, March 25th to Friday, March 28th, 2025**.  
 
-The Hamburg event, taking place from **May 12 to 16, 2025**, will gather participants to collaborate on hacking, bug-fixing, and learning in a dynamic, hands-on environment. This hackathon is part of the larger WCRP effort to push the boundaries of climate system modeling and digital innovation globally.
+As the final event in the nextGEMS journey, this hackathon offers a chance to reflect on our achievements while focusing on the future. Over four days, participants will collaborate, innovate, and explore how to build upon the project's foundation to shape what comes next.  
 
-For more details about the global hackathon and its objectives, please visit the [official WCRP event page](https://www.wcrp-esmo.org/activities/wcrp-global-km-scale-hackathon-2025).
+*[add some more information about the topic and content of the hackathon]*
+
+Stay tuned for further details and updates. We look forward to your participation!
