@@ -4,10 +4,8 @@ weight: 1
 ---
 **Welcome to the 6th and Final Hackathon of the nextGEMS Project**  
 
-This is the official website for the concluding hackathon of the nextGEMS project, taking place in **Stockholm, Sweden**, from **Tuesday, March 25th to Friday, March 28th, 2025**.  
+It is time for the final NextGEMS hackathon. The Stockholm hackathon (aka The final countdown) will offer opportunities to share and learn about highlights from the project themes thus far, to plan for and hack towards the final deliverables of the project with your theme members, to delve into renewable energy challenge problems, and to look forward into the future at collaborations and projects beyond NextGEMS. Focus is on hacking!
 
-As the final event in the nextGEMS journey, this hackathon offers a chance to reflect on our achievements while focusing on the future. Over four days, participants will collaborate, innovate, and explore how to build upon the project's foundation to shape what comes next.  
+The final nextGEMS hackathon will take place in **Stockholm, Sweden**, from **Tuesday, March 25th to Friday, March 28th, 2025**.  
 
-*[add some more information about the topic and content of the hackathon]*
-
-Stay tuned for further details and updates. We look forward to your participation!
+We look forward to your participation!
