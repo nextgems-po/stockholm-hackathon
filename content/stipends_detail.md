@@ -53,7 +53,7 @@ Registration details, can be found on the [registration website]().
 During the registration, please indicate that you apply for hackathon travel support. Following the respective check-box, please upload the documents listed above in *one single (concatenated) PDF file*.
 
 Application deadline is 31 January 2025.
-We will let you know as soon as possible whether we can arrange for your hackathon participation in Wageningen.
+We will let you know as soon as possible whether we can arrange for your hackathon participation in Stockholm.
 
 ## Questions?
 
