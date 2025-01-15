@@ -9,7 +9,7 @@ The Hackathon will run from **Tuesday afternoon, March 25, to Friday lunchtime, 
 Please find a preliminary agenda with some details below. Please note that some times might still change.
 
 
-### Tuesday, 24. March
+#### Tuesday, 24. March
 
 - 2pm Fika (Coffee break) and registration
 - 3pm Intro session
@@ -19,7 +19,7 @@ Please find a preliminary agenda with some details below. Please note that some 
 - 5pm Close
 - Ice breaker @ MISU, including micro poster session 🙂
 
-### Wednesday, 25. March
+#### Wednesday, 25. March
 
 - 9am Fika
 - Hacking
@@ -29,7 +29,7 @@ Please find a preliminary agenda with some details below. Please note that some 
 - 4--5pm Keynote talk (title and speaker tba)
 - 5pm Close
 
-### Thursday, 26. March
+#### Thursday, 26. March
 
 - 9 am Fika
 - 9.30 Morning updates (1 highlight per group from day 1, max 2 min --- with poll and price for the winning contribution)
@@ -40,7 +40,7 @@ Please find a preliminary agenda with some details below. Please note that some 
 - Hacking
 - 5pm Close
 
-### Friday, 27. March
+#### Friday, 27. March
 
 - 9am Fika
 - 9.30am Closing session
