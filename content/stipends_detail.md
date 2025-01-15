@@ -5,8 +5,6 @@ header_menu: false
 
 *Where and when:* Stockholm, Swedish Museum of Natural History, 25 – 28 March 2025
 
-**details below need to be updated!!!**
-
 nextGEMS offers up to 15 stipends for participation in the 6th hackathon to support young scientists (at Master and PhD student level) from outside the project.
 
 Application deadline: 31 January 2025.
@@ -14,11 +12,9 @@ Application deadline: 31 January 2025.
 
 ## What is a nextGEMS hackathon?
 
-*[check if these sections still apply; add information about renewable energies, ...]*
-
 nextGEMS is an European project that follows a new approach to climate modelling with global storm-resolving Earth-system Models. The project members meet regularly at hackathons to collaboratively analyse the latest model runs, exchange ideas and develop new ways forward.
 
-We would like to include universities and research groups, especially from regions with less of a tradition in climate science. External participants applying for a stipend will (mostly) be organized in teams to work on an Application Challenge Problem associated with the main hackathon themes: fire weather, (urban) heat extremes, and precipitation extremes.
+We would like to include universities and research groups, especially from regions with less of a tradition in climate science. External participants applying for a stipend will (mostly) be organized in teams to work on an Application Challenge Problem. The challenge problem for this hackathon will center around renewable energy applications and explore how these can be enhanced using the high-resolution capabilities of nextGEMS simulations.
 
 
 If you haven’t been to a hackathon, have a look at our [previous hackathons](https://nextgems-h2020.eu/hackathon/) to get an impression of the atmosphere during our previous meetings.
