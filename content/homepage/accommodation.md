@@ -6,7 +6,8 @@ header_menu: true
 ---
 Stockholm offers a wide range of accommodation options to suit various preferences. You are welcome to choose and book a stay at your preferred location. However, we have pre-reserved rooms across three hotels in Stockholm.
 
-[Map with the hotels listed below](https://umap.openstreetmap.de/en/map/hotels-stockholm_79907#13/59.3506/18.0596)
+{{<extlink icon="fa fa-external-link" text="Map with the hotels listed below" href="https://umap.openstreetmap.de/en/map/hotels-stockholm_79907#13/59.3506/18.0596">}}
+
 
 ### Crystal Plaza Hotel  
 
