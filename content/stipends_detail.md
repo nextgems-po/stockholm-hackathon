@@ -7,8 +7,8 @@ header_menu: false
 
 nextGEMS offers up to 15 stipends for participation in the 6th hackathon to support young scientists (at Master and PhD student level) from outside the project.
 
-Application deadline: 31 January 2025.
-[-> quicklink to registration & application]())
+Application deadline: 14 February 2025.
+{{<extlink icon="fa fa-external-link" text="registration website" href="https://registration.invajo.com/004b9fd4-43d3-4b9d-8d50-59c8cb0d6887">}}
 
 ## What is a nextGEMS hackathon?
 
@@ -17,7 +17,7 @@ nextGEMS is an European project that follows a new approach to climate modelling
 We would like to include universities and research groups, especially from regions with less of a tradition in climate science. External participants applying for a stipend will (mostly) be organized in teams to work on an Application Challenge Problem. The challenge problem for this hackathon will center around renewable energy applications and explore how these can be enhanced using the high-resolution capabilities of nextGEMS simulations.
 
 
-If you haven’t been to a hackathon, have a look at our [previous hackathons](https://nextgems-h2020.eu/hackathon/) to get an impression of the atmosphere during our previous meetings.
+If you haven’t been to a hackathon, have a look at our {{<extlink icon="fa fa-external-link" text="previous hackathons" href="https://nextgems-h2020.eu/hackathon/">}} to get an impression of the atmosphere during our previous meetings.
 
 ## Who can apply?
 
@@ -44,11 +44,11 @@ Before applying for hackathon travel support, please prepare the following docum
 - Proof of current enrolment and latest BSc / MSc certificates
 - Letter of support from a supervisor or equivalent, stating the relevance of the applicant’s participation
 
-Registration details, can be found on the [registration website]().
+Registration details, can be found on the {{<extlink icon="fa fa-external-link" text="registration website" href="https://registration.invajo.com/004b9fd4-43d3-4b9d-8d50-59c8cb0d6887">}}.
 
 During the registration, please indicate that you apply for hackathon travel support. Following the respective check-box, please upload the documents listed above in *one single (concatenated) PDF file*.
 
-Application deadline is 31 January 2025.
+Application deadline is 14 February 2025.
 We will let you know as soon as possible whether we can arrange for your hackathon participation in Stockholm.
 
 ## Questions?
