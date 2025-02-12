@@ -29,7 +29,7 @@ Email: [reservations@excellencehotels.se](reservations@excellencehotels.se)
 - To book a room, email the hotel with code **240325STOC** in the subject line.
 Email: [kungsbron.receptionen@olavthon.se](kungsbron.receptionen@olavthon.se)
 (Payment is made at the hotel.)
-- *Book before 21 February!*
+- *Book before 17 March!*
 
 ### Hotel Lilla Rådmannen
 
@@ -38,5 +38,5 @@ Email: [kungsbron.receptionen@olavthon.se](kungsbron.receptionen@olavthon.se)
 - Single room including breakfast: 1 569 kr/night
 - Rooms are available, 24. to 29. March 2025
 - To book a room, use this link: https://reservations.travelclick.com/72942?groupID=4632036. Guest will need to give their credit card details as security when booking. Then guests pay on at the hotel at check-in.
-- Book before 12 February!
+- *Book before 16 February!*
 
