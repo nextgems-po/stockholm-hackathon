@@ -28,6 +28,7 @@ Please find a preliminary agenda with some details below. Please note that some 
 - 3pm Fika
 - 4--5pm Keynote talk (title and speaker tba)
 - 5pm Close
+- Dinner at [Man in the Moon](https://maninthemoon.se)
 
 #### Thursday, 27. March
 
