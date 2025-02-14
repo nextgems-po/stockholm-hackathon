@@ -16,7 +16,7 @@ Stockholm offers a wide range of accommodation options to suit various preferenc
 - Single room including breakfast: 1 517 kr/night
 - Rooms are available, 24. to 29. March 2025
 - To book a room, email the hotel with code **48336** in the subject line.
-Email: [reservations@excellencehotels.se](reservations@excellencehotels.se)
+Email: [reservation@excellencehotels.se](reservation@excellencehotels.se)
 (Payment is made at the hotel.)
 - *Book before 13 March 2025!*
 
