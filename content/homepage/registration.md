@@ -4,8 +4,9 @@ weight: 2
 header_menu: true
 ---
 
-If you would like to participate, please register on the {{<extlink icon="fa fa-external-link" text="registration website" href="https://registration.invajo.com/004b9fd4-43d3-4b9d-8d50-59c8cb0d6887">}}.
+<!-- If you would like to participate, please register on the {{<extlink icon="fa fa-external-link" text="registration website" href="https://registration.invajo.com/004b9fd4-43d3-4b9d-8d50-59c8cb0d6887">}}. -->
 
+Registration is now closed. 
 
 **Travel Support**  
 During the registration process, you will also have the opportunity to apply for travel support. Students who have been invited to join the **Renewable Energy Challenge** should also apply for travel support during registration.  
