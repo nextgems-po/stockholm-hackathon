@@ -6,7 +6,7 @@ header_menu: true
 ---
 The Hackathon will run from **Tuesday afternoon, March 25, to Friday lunchtime, March 28, 2025**.
 
-Please find a preliminary agenda with some details below. Please note that some times might still change.
+Please the agenda below. Please note that some times might still change.
 
 
 #### Tuesday, 25. March
@@ -26,9 +26,9 @@ Please find a preliminary agenda with some details below. Please note that some 
 - 12pm Lunch
 - Hacking
 - 3pm Fika
-- 4--5pm Keynote talk (title and speaker tba)
+- 4--5pm Keynote talk: *Data-driven forecasts of extreme events and impact forecasting* by {{<extlink icon="fa fa-external-link" text="Gabriele Messori" href="https://www.uu.se/en/contact-and-organisation/staff?query=N18-2030">}} 
 - 5pm Close
-- Dinner at [Man in the Moon](https://maninthemoon.se)
+- Dinner at {{<extlink icon="fa fa-external-link" text="Man in the Moon" href="https://maninthemoon.se">}}
 
 #### Thursday, 27. March
 
@@ -46,7 +46,7 @@ Please find a preliminary agenda with some details below. Please note that some 
 - 9am Fika
 - 9.30am Closing session
   - all groups present how they addressed their defined open questions (see Tuesday session) (S&R, S&L, S&O, RE, S&S)
-  - Beyond NextGEMS incl global hackathon (Irina, Bjorn)
+  - Beyond nextGEMS incl global hackathon (Bjorn)
   - Thank you and goodbye
 - 12pm Close, small lunch to go or stay
 
