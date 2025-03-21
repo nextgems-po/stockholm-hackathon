@@ -19,7 +19,7 @@ As part of our commitment to creating an inclusive and welcoming atmosphere, we 
 
 
 **Contact**
-- [hackathon2025@akademikonferens.se](mailto:hackathon2025@akademikonferens.se)
+- [nextgems_office@mpimet.mpg.de](mailto:nextgems_office@mpimet.mpg.de)
 
 
 ### Getting around
