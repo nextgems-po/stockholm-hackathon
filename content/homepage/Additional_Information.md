@@ -26,8 +26,11 @@ As part of our commitment to creating an inclusive and welcoming atmosphere, we 
 
 If you want to use public transport to get around Stockholm, check out  [sl.se](https://sl.se/en/in-english) for bus schedules and fare information. You can either use a contactless card or mobile device for pay-as-you-go travel or purchase tickets in the SL App, at Metro and commuter rail stations, and at ticket agents around Stockholm County.
 
+A single journey ticket costs 43 SEK. 
+There are also 24-hour tickets for 180 SEK and 72-hour tickets for 360 SEK. 
+
 Swedish Museum of Natural History: Frescativägen 40, 114 18 Stockholm
 Meteorological Institute, Stockholm University (MISU): Arrhenius Laboratory, Svante Arrhenius väg 16C, 114 18 Stockholm, Sweden
 Man in The Moon, Restaurant: Tegnérgatan 2C, 113 58 Stockholm, Sweden
 
-Check out [this map](https://umap.openstreetmap.de/en/map/nextgems-the-final-countdown-stockholm-hackathon_84821#19/59.33201/18.05314) for an overview and walking directions.
+Check out [this map](https://umap.openstreetmap.de/en/map/nextgems-the-final-countdown-stockholm-hackathon_84821#14/59.3420/18.0528) for an overview and walking directions.

@@ -13,8 +13,9 @@ Please the agenda below. Please note that some times might still change.
 
 - 2pm Fika (Coffee break) and registration
 - 3pm Intro session
-  - welcome, hackathon overview (Frida, Thorsten)
-  - each theme presents highlights, and open questions (theme leaders)
+  - welcome, hackathon overview (Frida, Thorsten, 10 min)
+  - simulation updates (Xabi, Divya, 30 min)
+  - each theme presents highlights, and open questions (theme leaders, 40 min)
   - find your group (S&R, S&L, S&O, RE, S&S)
 - 5pm Close
 - Ice breaker @ MISU, including micro poster session 🙂
