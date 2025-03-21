@@ -30,4 +30,4 @@ Swedish Museum of Natural History: Frescativägen 40, 114 18 Stockholm
 Meteorological Institute, Stockholm University (MISU): Arrhenius Laboratory, Svante Arrhenius väg 16C, 114 18 Stockholm, Sweden
 Man in The Moon, Restaurant: Tegnérgatan 2C, 113 58 Stockholm, Sweden
 
-Check out [this map](https://umap.openstreetmap.de/en/map/nextgems-the-final-countdown-stockholm-hackathon_84821#19/59.33201/18.05314) for an overview and walking directions.
+Check out [this map](https://umap.openstreetmap.de/en/map/nextgems-the-final-countdown-stockholm-hackathon_84821#14/59.3420/18.0528) for an overview and walking directions.
