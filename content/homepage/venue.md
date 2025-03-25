@@ -14,5 +14,5 @@ The address is: Frescativägen 40, 114 18 Stockholm.
 
 #### Public transport
 
-- Red line (subway); station "Universitetet"
+- Red line (subway, towards "Mörby centrum"); station "Universitetet"
 - Bus lines 50 or 540; stop "Naturhistoriska riksmuseet"
