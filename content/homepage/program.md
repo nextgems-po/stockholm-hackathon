@@ -31,6 +31,7 @@ Please the agenda below. Please note that some times might still change.
 - 4--5pm Keynote talk: *Data-driven forecasts of extreme events and impact forecasting* by {{<extlink icon="fa fa-external-link" text="Gabriele Messori" href="https://www.uu.se/en/contact-and-organisation/staff?query=N18-2030">}} 
 - 5pm Close
 - 7.15pm Dinner at {{<extlink icon="fa fa-external-link" text="Man in the Moon" href="https://maninthemoon.se">}}
+- 8pm Hackathon midweek discussion
 
 #### Thursday, 27. March
 
